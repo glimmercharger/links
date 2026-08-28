@@ -44,49 +44,13 @@
   ],
   "featureCards": [
     {
-      "id": "beest",
-      "title": "BEEST",
-      "titleClassName": "font-beest-title text-3xl leading-none sm:text-4xl",
-      "textColor": "#E0F5FF",
-      "description": "Build to earn a ticket to a week long hackathon in the Netherlands!",
-      "buttonText": "Start Building!",
-      "buttonUrl": "https://beest.hackclub.com/?utm_source=links",
-      "backgroundColor": "#635E4E",
-      "backgroundImage": "/assets/beest-tile.webp",
-      "backgroundImageOpacity": 0.18,
-      "decorativeImage": "/assets/beest_sticker_transparent.png",
-      "decorativeImageClass": "pointer-events-none absolute -bottom-10 -right-8 z-20 h-[120px] w-auto rotate-6 object-contain opacity-100 saturate-125 transition-transform group-hover:scale-[1.02]"
-    },
-    {
-      "id": "sleepover",
-      "title": "Sleepover",
-      "titleImage": "/assets/sleepover_logo.png",
-      "description": "Build projects and fly out to the coziest slumber-party hackathon of your life.",
-      "buttonText": "Join the sleepover",
-      "buttonUrl": "https://sleepover.hackclub.com/?utm_source=links",
-      "backgroundColor": "#D9DAF8",
-      "decorativeImage": "/assets/bunny-sleeping.png"
-    },
-    {
-      "id": "macondo",
-      "title": "Macondo",
-      "titleImage": "/assets/macondo_logo.png",
-      "description": "Make software projects, get up to $1K for hardware projects, win prizes.",
-      "buttonText": "Join Now",
-      "buttonUrl": "https://macondo.hackclub.com/?utm_source=links",
-      "backgroundColor": "#684D3A",
-      "decorativeImage": "/assets/macondo_mango.webp",
-      "decorativeImageClass": "pointer-events-none absolute -bottom-4 -right-4 z-20 h-24 w-auto rotate-12 object-contain transition-transform group-hover:scale-105"
-    },
-    {
-      "id": "fallout",
-      "title": "Fallout",
-      "titleImage": "/assets/fallout_logo.png",
-      "description": "Build hardware projects, fly out to world's hardware capital!",
-      "buttonText": "Join Now",
-      "buttonUrl": "https://fallout.hackclub.com?utm_source=links",
-      "backgroundColor": "#38C9FF",
-      "decorativeImage": "assets/chineseheidi.gif"
+      "id": "clubs",
+      "title": "Clubs",
+      "titleImage": "/assets/clubs.png",
+      "description": "Don't run your coding club alone, make it a Hack Club! Run workshops, ship projects, get rewards!",
+      "buttonText": "Learn more!",
+      "buttonUrl": "https://clubs.hackclub.com",
+      "backgroundColor": "#893648"
     },
     {
       "id": "hcb",
